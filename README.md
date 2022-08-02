@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @fayrush
-- 🌱 I started learning Java on 26/04/2021
-- 💞️ Any tips are appreciated B)_
 - 📫 Most of my info is on https://fayrush.tech, fay#2990 is my discord and the fastest way to get to me :)
 
 <!---
